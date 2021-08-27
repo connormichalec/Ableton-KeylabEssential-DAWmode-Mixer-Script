@@ -9,7 +9,7 @@
 
 # What it does
 
-Essentially the modified python scripts will now allow the encoders to act as device automap knobs(similar to what would happen in "device mode" on other controllers) I was also able to get this to work with the faders but have not figured out how to get them both to work in conjunction, so I have it so the faders still will control the mix levels in DAW mode. This is fine for me because all I want to use for parameters are the encoders, however feel free to check out the messy commented code if you would like(plz pull request if u figure it out). 
+Essentially the modified python scripts will now allow the encoders to act as device automap knobs(similar to what would happen in "device mode" on other controllers) I was also able to get this to work with the faders but have not figured out how to get them both to work in conjunction, so I have it so the faders still will control the mix levels in DAW mode. This is fine for me because all I want to use for parameters are the encoders, and 8 parameters+mod wheel is plenty per instrument, however feel free to check out the messy commented code if you would like get the faders working as well(plz pull request if u figure it out). 
 
 # How
 
