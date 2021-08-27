@@ -49,4 +49,9 @@ https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/ mainly to u
 
 Absue the shit out of google
 
+# Another thing
+
+I commented out some modifications you can do and ugly annotations in the .py files so check those out if u want to modify the files further.
+If you would like to change the sensitivity of the encoders, I believe in device.py you can just modify the param: default_encoder_sensitivity=1.0 
+
 
