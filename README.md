@@ -1,3 +1,9 @@
+
+![image](https://user-images.githubusercontent.com/35946564/131079898-a7893315-89f1-4708-922f-61511a222393.png)
+
+
+
+
 # What is this
   A convenient feature that does not seem to be intergrated very well in a lot of MIDI controllers is Automapping/Device control in ableton; each track automatically assigns midi input to a specific parameter(when used in conjunction with instrument rack macros this leave a practically hands free ableton experience.) As an arturia keylab essential user, I have found it frustrating that the default DAW mode does not support this feature, while it is possible to create a custom User control script.txt such as this one: https://github.com/gaw1ik/Tuturial-Ableton-Blue-Hand-Device-Control-Using-Arturia-Keylab. While this does work, you have to switch the midi map to user mode, instead of using the DAW mode. The downside to this is that you will lose the ability to control ableton's session view like you can in DAW mode, which means switching back and forth between daw and user 1 when I want to select a track, then control it's parameters. The source of this issue is that Arturia's remote MIDI mapping python scripts were built this way, so there is no solution. However, thanks to the help of python's decompilable nature and github user gluon I have slightly edited these midi remote scripts to achieve what I am looking for. 
 
