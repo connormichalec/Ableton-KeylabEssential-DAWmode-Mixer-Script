@@ -17,7 +17,7 @@ For me it's C:/User/blah/ProgramData\Ableton\Live poor version\Resources\MIDI Re
 
 Make sure ableton is closed
 
-Now (first download the .pys from this repo) for each .py that needs to be replaced, locate the default .pyc version of that file and replace it with the modified version. Make sure to delete the .pyc because I think python will use this as a dependency instead of the .py. Note that the files device.py,and device_parametres.py are new so they will not have a corresponding .pyc to replace
+Now (first download the .pys from this repo) for each .py that needs to be replaced, locate the default keylab_essential.pyc version of that file and replace it with the modified version. Make sure to delete the .pyc because I think python will use this as a dependency instead of the .py. Copy device.py,and device_parametres.py, they don't have a corresponding .pyc because are defaulty there.
 
 reopen ableton, 
 You should NOT have to select a new control surface, as you are just replacing the current one, however make sure the Keylab essential control surface is selected:
