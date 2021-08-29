@@ -131,7 +131,7 @@ class KeyLabEssential(ControlSurface):
         self._mixer.set_enabled(True)
 
         #Me trying to get user controls working to no avail:
-        #self._mixer_master.use_default_message()
+        #self._master_fader.use_default_message()
         
 
 
